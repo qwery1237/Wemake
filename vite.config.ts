@@ -10,6 +10,6 @@ export default defineConfig({
     ssr: false,
   },
   server: {
-    port: 3000,
+    port: 3500,
   },
 });
